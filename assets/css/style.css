@@ -14,3 +14,11 @@
 .carousel-caption {
     bottom: 10vw !important;
 }
+
+/* footer area start  */
+footer .icons a {
+    direction: none;
+    color: white;
+    font-size: 30px;
+    padding: 0 10px;
+}
