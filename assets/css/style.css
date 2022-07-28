@@ -6,3 +6,11 @@
     font-family: 'Roboto', sans-serif;
     font-family: 'Ubuntu', sans-serif;
 }
+
+.carousel-inner .carousel-item img {
+    filter: brightness(50%);
+}
+
+.carousel-caption {
+    bottom: 10vw !important;
+}
