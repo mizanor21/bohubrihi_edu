@@ -16,8 +16,12 @@
 }
 
 /* media queries  mobile*/
-/* @media only screen and (max-width: 600px) {
-    body {
-        background-color: lightblue;
+@media only screen and (max-width: 700px) {
+    .carousel-caption {
+        bottom: 0vw !important;
     }
-} */
+
+    #Courses img {
+        width: 600px;
+    }
+}
