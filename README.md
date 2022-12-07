@@ -1,4 +1,4 @@
-# Welconme Bohubrihi Edu Camp
+# Welcome Bohubrihi Edu Camp
 
 ## Using
 * HTML
